@@ -1,2 +1,1 @@
-print("con chuot chay hang rao")
-print("con chuột sợ con mèo")
+# CAO HUỲNH CHI NA XÂY DỰNG LẠI FUNCTION cho mouse trong file này 
