@@ -6,3 +6,5 @@ class Dog:
         self.type_dog = type_dog
     def sayhi(self):
         print(self.say)
+    def play(self):
+        pass
