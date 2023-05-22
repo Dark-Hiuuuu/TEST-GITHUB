@@ -39,7 +39,7 @@ class Animal():
         print('Animals have unique ability that disinguish themselves')
         pass
 
- class Cat(Animal):
+class Cat(Animal):
     def __init__(self,weight,color,name):
         super().__init__(weight,color,name)
         self.type_animal = "Cat"
